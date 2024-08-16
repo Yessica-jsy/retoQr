@@ -4,7 +4,7 @@ body{
     background-color: rgb(201, 230, 255);
 }
 .qrContainer{
-    margin: 7% auto;
+    margin: 135px auto;
     background-color: aliceblue;
     width: 330px;
     height: 500px;
@@ -27,7 +27,6 @@ p{
     text-align: center;
 } 
 h1{
-    width: 84%;
     text-align: center;
     padding-top:15px;
 }
@@ -37,6 +36,11 @@ h1{
         background-color: rgb(255, 230, 230);
     }
     .qrContainer{
-        margin: 30% auto;
+        margin: 150px auto;
+        width: 70%;
+    }
+    .qr{
+        width: 90%;
+        height: 260px;
     }
 }
